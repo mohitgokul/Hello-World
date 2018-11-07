@@ -1,4 +1,4 @@
-;Algol Programming Language
+Algol Programming Language;
 
 BEGIN
 FILE F (KIND=REMOTE);
