@@ -1,3 +1,3 @@
-//Korn Shell
+#Korn Shell
 
 echo 'Hello World'
