@@ -1,3 +1,3 @@
-//Elixir Programming
+#Elixir Programming
 
 IO.puts "Hello World"
