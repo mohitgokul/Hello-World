@@ -1,8 +1,6 @@
-/*PHP Programming*/
-
 <html>
  <head>
-  <title>PHP Test</title>
+  <title>PHP</title>
  </head>
  <body>
  <?php echo '<p>Hello World</p>'; ?> 
