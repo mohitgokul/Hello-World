@@ -1,1 +1,1 @@
-rails new hello_world
+puts 'Hello world'
